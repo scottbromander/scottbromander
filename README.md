@@ -1,1 +1,1 @@
-![Prime and Aftercamp]()
+![Prime and Aftercamp](https://aftercamp.s3.us-east-2.amazonaws.com/PrimeAftercampBanner.png)
