@@ -1,1 +1,1 @@
-![cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficatcare.org%2Fadvice%2Fthinking-of-getting-a-cat%2F&psig=AOvVaw1Mw8oxv4GntPJfFg6hCQBT&ust=1599854338884000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCls4Cw3-sCFQAAAAAdAAAAABAO)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
